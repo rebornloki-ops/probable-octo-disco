@@ -51,5 +51,5 @@ def analyze_video(video_path):
 
 
 # Example usage
-video_file = "/mnt/chromeos/MyFiles/Downloads/VID-20260215-WA0001.mp4"  # Update to your actual path
+video_file = "/mnt/chromeos/MyFiles/PlayFiles/Movies/WhatsApp/ozil.mp4"  # Update to your actual path
 analyze_video(video_file)
