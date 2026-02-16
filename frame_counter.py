@@ -49,7 +49,6 @@ def analyze_video(video_path):
     for second in sorted(frames_per_second.keys()):
         print(f"Second {second}: {frames_per_second[second]} frames")
 
-
 # Example usage
-video_file = "/mnt/chromeos/MyFiles/PlayFiles/Movies/WhatsApp/ozil.mp4"  # Update to your actual path
+video_file = "/mnt/chromeos/MyFiles/Downloads/VID-20260215-WA0031.mp4"  # Update to your actual path
 analyze_video(video_file)
