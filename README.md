@@ -54,6 +54,6 @@ Core example scripts:
 
 ## References
 
-- See the full examples and source in the files linked above (e.g., [Dictionaries/dictionaries.py](Dictionaries/dictionaries.py), [Dumb Stuff/frame_counter.py](Dumb%20Stuff/frame_counter.py)).
+
 
 
