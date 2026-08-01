@@ -52,8 +52,6 @@ Core example scripts:
 
 - Keep changes small and focused. Open issues or PRs on the repository for fixes or enhancements.
 
-## References
-
 
 
 
